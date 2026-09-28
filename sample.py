@@ -21,7 +21,5 @@ def main():
     print(f"The sum is: {result}")
 
 
-if __name__ == "__main__":
-    main()
 
     ###test
